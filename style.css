@@ -95,6 +95,21 @@ li {
     text-align: center;
 }
 
+.GoCo-img {
+    max-width: 100%;
+    text-align: center;
+    height: auto;
+    margin: auto 0;
+    display: block;
+}
+
+.PrayerForm-img img{
+    max-width: 70%;
+    text-align: center;
+    display: block;
+    margin: 0 auto;
+}
+
 
 /* -------------------------------------------------------------- */
 
