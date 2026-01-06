@@ -79,6 +79,18 @@ li {
     margin-right: -30px;
 }
 
+.qr-code {
+  display: flex;
+  justify-content: center;
+  margin-top: 1rem;
+}
+
+.qr-code img {
+  width: 200px;        /* adjust as needed */
+  max-width: 100%;
+  height: auto;
+}
+
 @media (max-width: 767px) {
     .welcome-banner {
         width: 100%;
