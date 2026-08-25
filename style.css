@@ -1,5 +1,5 @@
 body {
-    background-color: #E6DCD2;
+    background-color: #242321;
     font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
     overflow-x: hidden;
 
@@ -148,7 +148,7 @@ li {
 p,
 div {
     /* color: #000000; */
-    color: #000000
+    color: #ffffff
 
 }
 
@@ -165,7 +165,7 @@ div {
     /* Make the text larger */
     font-weight: bold;
     /* Make the text bold */
-    color: #7b2e2e;
+    color: #ef972c;
     /* Use a rich, warm color to match your site's tone */
     text-align: left;
     /* Align left or center if preferred */
@@ -185,14 +185,14 @@ h3 {
     /* color: #ffffff;
     text-shadow: 0 0 20px #000000; */
 
-    color: #ff6c6c;
+    color: #ffffff;
     text-shadow:
-        0 0 20px #411a1a;
+        0 0 20px #fcfafa;
 }
 
 /* -----------------------------------Logo----------------------------- */
 .logo {
-    color: #9a4c4c;
+    color: #ffff10;
     text-decoration: none;
     text-shadow: 0 0 20px #ffffff;
     font-weight: bold;
@@ -214,7 +214,7 @@ h3 {
 }
 
 nav a {
-    color: #9a4c4c;
+    color: #325da7;
     text-decoration: none;
     font-weight: bold;
     font-size: 20px;
@@ -227,10 +227,10 @@ nav a {
 nav {
     position: sticky;
     top: 0;
-    background-color: #f5e3d8;
+    background-color: #242321;
     padding: 15px 0;
-    border-top: 2px solid #7b2e2e;
-    border-bottom: 2px solid #7b2e2e;
+    border-top: 5px solid #363636;
+    border-bottom: 5px solid #363636;
     z-index: 1000;
     overflow-x: auto;
     white-space: nowrap;
@@ -254,7 +254,7 @@ nav,
     font-weight: normal;
     font-family: 'Times New Roman', Times, serif;
     margin-top: 10px;
-    color: #000000;
+    color: #e6e6e6;
     text-shadow:
         0 0 5ox #000000,
         0 0 20px #000000;
@@ -300,7 +300,7 @@ nav,
 .motto {
     display: block;
     text-align: center;
-    color: #411a1a;
+    color: #6ccbff;
     text-decoration: double;
     font-size: 18px;
 
@@ -311,7 +311,7 @@ nav,
 .sub {
     display: block;
     text-align: center;
-    color: #411a1a;
+    color: #6ccbff;
     text-decoration: double;
     font-size: 22px;
 }
@@ -333,7 +333,7 @@ nav,
 
 .description-title {
     text-align: center;
-    color: #411a1a;
+    color: #325da7;
     font-size: 20px;
     margin-bottom: 10px;
     font-weight: bold;
